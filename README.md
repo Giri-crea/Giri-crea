@@ -97,17 +97,36 @@ A machine learning application that classifies news articles as real or fake usi
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Giri-crea&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Giri-crea&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giri-crea&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Giri-crea&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Giri-crea&layout=compact&theme=tokyonight)
-
----# 📊 Contribution Graph
-
-[![Girinath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Giri-crea&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Giri-crea&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
+
+## 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Giri-crea&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Giri-crea&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Giri-crea&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ## 🐍 Contribution Snake
 
