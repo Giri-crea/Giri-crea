@@ -124,14 +124,11 @@ A deep learning application that detects facial emotions and recommends music ba
 
 ---
 
-# 🐍 Contribution Snake
+## 👾 Pac-Man Contribution Graph
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Giri-crea/Giri-crea/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/Giri-crea/Giri-crea/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph">
 </p>
-
 
 ## 🌐 Connect with Me
 
