@@ -95,21 +95,6 @@ A machine learning application that classifies news articles as real or fake usi
 
 ---
 
-## 😊 Emotion Detection & Music Recommendation
-A deep learning application that detects facial emotions and recommends music based on the detected mood.
-
-**Highlights**
-- Facial emotion recognition
-- CNN-based deep learning model
-- Music recommendation system
-- Interactive Streamlit interface
-
-**Tech Stack**
-`Python` `TensorFlow` `OpenCV` `Streamlit`
-
----
-
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Giri-crea&show_icons=true&theme=tokyonight)
