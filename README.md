@@ -121,7 +121,7 @@ A machine learning application that classifies news articles as real or fake usi
 
 💼 LinkedIn: https://www.linkedin.com/in/girinath-r-5385772b4/
 
-🌍 Portfolio: https://
+🌍 Portfolio: https://portfolio-two-theta-2u81tffi0v.vercel.app/
 
 ---
 
