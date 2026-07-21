@@ -112,19 +112,6 @@ A machine learning application that classifies news articles as real or fake usi
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Giri-crea&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📈 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Giri-crea&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Giri-crea&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
