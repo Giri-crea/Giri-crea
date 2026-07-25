@@ -91,7 +91,36 @@ A machine learning application that classifies news articles as real or fake usi
 - Real-time prediction
 
 **Tech Stack**
-`Python` `Scikit-learn` `Pandas` `NumPy` `NLP`
+-Python
+-Scikit-learn-
+Pandas
+-NumPy
+-NLP
+
+---
+
+## 🌌 Simulation Hypothesis
+
+An interactive web application that explores the Simulation Hypothesis through AI-powered conversations, immersive visuals, and thought-provoking scenarios. Users can investigate philosophical concepts, question reality, and engage with an intelligent assistant designed to discuss simulation theory.
+
+**Highlights**
+- 🤖 AI-powered conversations
+- 🌌 Interactive simulation-themed interface
+- 💬 Thought-provoking discussions
+- 📱 Responsive modern UI
+
+**Tech Stack**
+- React
+- Node.js
+- Express
+- JavaScript
+- HTML
+- CSS
+- Gemini API
+
+🔗 Repository: https://github.com/Giri-crea/simulation-hypothesis
+
+🌐 Live Demo:https://simulation-hypothesis.vercel.app
 
 ---
 
